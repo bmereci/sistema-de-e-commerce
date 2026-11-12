@@ -13,7 +13,7 @@ Planificar y estructurar un sistema de gestión de software en Go con enfoque de
 programación funcional, organizado en módulos y paquetes con funciones
 definidas, como base para su evolución hacia una aplicación web.
 
-**Objetivos específicos**
+**Objetivos específicos del sistema**
 1. Delimitar el alcance del sistema, identificando a sus usuarios y las
    funcionalidades que ofrecerá, y organizarlas en módulos con
    responsabilidades definidas.
@@ -21,6 +21,15 @@ definidas, como base para su evolución hacia una aplicación web.
 2. Diseñar la estructura del proyecto en Go, con un paquete por módulo y
    dependencias en una sola dirección, declarando funciones con sus
    parámetros y retornos según los principios de la programación funcional.
+
+  **Objetivos específicos de la funcionalidad de la aplicación**
+
+1.	Gestionar un catálogo de ropa deportiva, accesorios, suplementos con precios, manejando un stock .
+   
+2.	Permitir al cliente armar un carrito, pagar con distintos métodos y dar seguimiento al estado de su pedido.
+  
+3.	Administrar membresías mensuales y anuales: alta, consulta, renovación y cancelación.
+
 
 
   
